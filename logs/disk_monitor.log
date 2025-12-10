@@ -1,0 +1,23 @@
+[2025-12-06 19:37:40] Started quick disk check
+[2025-12-06 19:37:40] CRITICAL: /media/shahriar1498/VBox_GAs_7.2.22 usage at 100%
+[2025-12-06 19:37:40] Completed quick disk check
+[2025-12-06 19:38:03] Displayed detailed disk usage (df -h)
+[2025-12-08 15:56:49] Started quick disk check
+[2025-12-08 15:56:49] CRITICAL: /media/shahriar1498/VBox_GAs_7.2.22 usage at 100%
+[2025-12-08 15:56:49] Completed quick disk check
+[2025-12-08 15:57:13] Displayed detailed disk usage (df -h)
+[2025-12-08 15:59:40] Started quick disk check
+[2025-12-08 15:59:40] CRITICAL: /media/shahriar1498/VBox_GAs_7.2.22 usage at 100%
+[2025-12-08 15:59:40] Completed quick disk check
+[2025-12-10 22:37:52] Started quick disk check
+[2025-12-10 22:37:52] WARNING: /media/sf_Ubuntu usage at 82%
+[2025-12-10 22:37:52] CRITICAL: /media/shahriar1498/VBox_GAs_7.2.22 usage at 100%
+[2025-12-10 22:37:52] Completed quick disk check
+[2025-12-10 22:38:52] Displayed detailed disk usage (df -h)
+[2025-12-10 22:40:28] Displayed detailed disk usage (df -h)
+[2025-12-10 23:00:38] Displayed detailed disk usage (df -h)
+[2025-12-10 23:10:10] Displayed detailed disk usage (df -h)
+[2025-12-10 23:14:36] Started quick disk check
+[2025-12-10 23:14:36] WARNING: /media/sf_Ubuntu usage at 82%
+[2025-12-10 23:14:36] Completed quick disk check
+[2025-12-10 23:15:14] Displayed detailed disk usage (df -h)

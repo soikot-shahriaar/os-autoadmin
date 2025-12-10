@@ -1,0 +1,17 @@
+[2025-12-06 20:37:12] Listed normal users
+[2025-12-06 20:37:22] Displayed logged-in users
+[2025-12-06 20:37:33] Blocked action (needs root): add_user
+[2025-12-06 20:37:44] Blocked action (needs root): lock_user
+[2025-12-06 20:37:47] Blocked action (needs root): unlock_user
+[2025-12-06 21:42:58] Listed normal users
+[2025-12-06 21:43:04] Displayed logged-in users
+[2025-12-06 21:44:57] Listed normal users
+[2025-12-06 21:45:05] Displayed logged-in users
+[2025-12-06 21:45:48] Created user demo_user1
+[2025-12-06 21:45:58] Password set for user demo_user1
+[2025-12-06 21:46:01] Listed normal users
+[2025-12-10 22:52:38] Listed normal users
+[2025-12-10 22:53:07] Displayed logged-in users
+[2025-12-10 22:54:53] Created user demo_user2
+[2025-12-10 22:55:21] Password set for user demo_user2
+[2025-12-10 22:55:32] Listed normal users

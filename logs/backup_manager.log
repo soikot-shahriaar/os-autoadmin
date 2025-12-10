@@ -1,0 +1,19 @@
+[2025-12-06 20:15:39] Backup failed: directory not found (home/shahriar1498/Documents)
+[2025-12-06 20:15:46] Backup failed: directory not found ()
+[2025-12-06 20:16:18] Backup failed: directory not found ()
+[2025-12-06 20:16:38] Backup created: /home/shahriar1498/os-autoadmin/backups/Documents_backup_20251206_201638.tar.gz from /home/shahriar1498/Documents
+[2025-12-06 20:16:42] Listed existing backups
+[2025-12-06 20:16:59] Viewed contents of backup: /home/shahriar1498/os-autoadmin/backups/Documents_backup_20251206_201638.tar.gz
+[2025-12-06 20:17:39] Deleted backup: /home/shahriar1498/os-autoadmin/backups/Documents_backup_20251206_201638.tar.gz
+[2025-12-06 20:17:42] Listed existing backups
+[2025-12-06 20:21:11] Listed existing backups
+[2025-12-06 20:21:29] Backup failed: directory not found (\home\shahriar1498\Documents)
+[2025-12-06 20:22:15] Listed existing backups
+[2025-12-06 20:22:21] Backup created: /home/shahriar1498/os-autoadmin/backups/Documents_backup_20251206_202221.tar.gz from /home/shahriar1498/Documents
+[2025-12-06 20:22:26] Listed existing backups
+[2025-12-06 20:22:38] Viewed contents of backup: /home/shahriar1498/os-autoadmin/backups/Documents_backup_20251206_202221.tar.gz
+[2025-12-10 22:43:37] Backup created: /home/shahriar1498/os-autoadmin/backups/Downloads_backup_20251210_224336.tar.gz from /home/shahriar1498/Downloads
+[2025-12-10 22:46:10] Listed existing backups
+[2025-12-10 22:47:26] Viewed contents of backup: /home/shahriar1498/os-autoadmin/backups/Downloads_backup_20251210_224336.tar.gz
+[2025-12-10 22:48:31] Deleted backup: /home/shahriar1498/os-autoadmin/backups/Downloads_backup_20251210_224336.tar.gz
+[2025-12-10 22:49:06] Listed existing backups

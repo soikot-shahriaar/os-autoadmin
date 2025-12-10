@@ -1,0 +1,42 @@
+========================================
+ OS-AutoAdmin: System Health Report
+ Generated at: 2025-12-10 23:01:53
+========================================
+
+[CPU]
+1-min Load Average : 0.29
+Status             : OK
+
+[Memory]
+Total (MB)         : 4918
+Used (MB)          : 1887
+Free (MB)          : 2075
+Usage              : 38%
+Status             : OK
+
+[Disk Usage] (df -h)
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           492M  1.8M  491M   1% /run
+/dev/sda2        32G   16G   15G  53% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+Ubuntu          120G   97G   23G  82% /media/sf_Ubuntu
+tmpfs           492M  148K  492M   1% /run/user/1002
+tmpfs           492M  124K  492M   1% /run/user/1000
+
+[Top 5 Processes by CPU]
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+shahria+    5228  7.8  8.4 3987328 426320 ?      Ssl  22:59   0:11 /usr/bin/gnome-shell
+demo_us+    3218  5.3  7.5 3944520 381584 ?      Ssl  22:58   0:11 /usr/bin/gnome-shell
+shahria+    5549  1.8  0.5 421512 29552 ?        Sl   22:59   0:02 /usr/libexec/ibus-extension-gtk3
+demo_us+    3704  1.7  0.5 421512 29712 ?        Sl   22:58   0:03 /usr/libexec/ibus-extension-gtk3
+shahria+    5735  1.0  5.2 1670996 263308 ?      Sl   22:59   0:01 /usr/bin/nautilus --gapplication-service
+
+[Top 5 Processes by Memory]
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+shahria+    5228  7.8  8.4 3987328 426320 ?      Ssl  22:59   0:11 /usr/bin/gnome-shell
+demo_us+    3218  5.3  7.5 3944520 381584 ?      Ssl  22:58   0:11 /usr/bin/gnome-shell
+shahria+    5735  1.0  5.2 1670996 263308 ?      Sl   22:59   0:01 /usr/bin/nautilus --gapplication-service
+demo_us+    4086  0.1  2.0 1117672 101576 ?      Sl   22:58   0:00 /usr/libexec/mutter-x11-frames
+shahria+    5927  0.1  2.0 1118016 101500 ?      Sl   22:59   0:00 /usr/libexec/mutter-x11-frames
+
