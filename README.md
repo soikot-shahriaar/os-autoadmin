@@ -35,7 +35,7 @@ os-autoadmin/
 1. Clone or download the project to your home directory:
    ```bash
    cd ~
-   git clone <repository-url> os-autoadmin
+   git clone https://github.com/soikot-shahriaar/os-autoadmin.git
    # or extract downloaded archive to ~/os-autoadmin
    ```
 
